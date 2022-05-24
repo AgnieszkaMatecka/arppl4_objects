@@ -1,0 +1,21 @@
+
+R
+java:S1854"5Remove this useless assignment to local variable "m".(ˆïõ¢8ÖËÖˆ0
+Z
+java:S1854"8Remove this useless assignment to local variable "dom4".(ÃŠÀñùÿÿÿÿ8×ËÖˆ0
+Z
+java:S1854"8Remove this useless assignment to local variable "dom3".(££¢Ÿıÿÿÿÿ8ØËÖˆ0
+Z
+java:S1854"8Remove this useless assignment to local variable "dom2".(ó²›Æıÿÿÿÿ8ÙËÖˆ0
+Z
+java:S1854"8Remove this useless assignment to local variable "dom1".(ÿæëúÿÿÿÿ8ÚËÖˆ0
+K
+java:S1481")Remove this unused "dom1" local variable.(ÿæëúÿÿÿÿ8ßËÖˆ0
+K
+java:S1481")Remove this unused "dom2" local variable.(ó²›Æıÿÿÿÿ8àËÖˆ0
+K
+java:S1481")Remove this unused "dom3" local variable.(££¢Ÿıÿÿÿÿ8áËÖˆ0
+K
+java:S1481")Remove this unused "dom4" local variable.(ÃŠÀñùÿÿÿÿ8ãËÖˆ0
+C
+java:S1481"&Remove this unused "m" local variable.(ˆïõ¢8äËÖˆ0
